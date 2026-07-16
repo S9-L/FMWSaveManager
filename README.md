@@ -52,7 +52,7 @@ The usual disclaimers apply for any save managing application: Always, always, *
 | Versions  | 1.2.0 - 1.2.4 | 1.0.0 - 1.2.5 | TBD | TBD | TBD | TBD | TBD |
 
 # Instructions
-Please reference the comprehensive repo wiki documenting various features in the save manager. The information consolidated there will enable you to fully take advantage of the save manager's capabilties.
+Please reference the comprehensive repo [wiki](https://github.com/S9-L/FMWSaveManager/wiki) documenting various features in the save manager. The information consolidated there will enable you to fully take advantage of the save manager's capabilties.
 
 # Troubleshooting
 If you encounter problems with the tool, open an issue in this repo. In the issue, describe the bug scenario and any reported exception/error message to greatly ease debugging and expedite resolution.

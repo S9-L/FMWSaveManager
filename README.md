@@ -49,7 +49,7 @@ The usual disclaimers apply for any save managing application: Always, always, *
 || Steam | Switch | Doujin CB | FMW4 | FMW3 | FMW2 | FMW1 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Supported | Yes | Yes | TBD | TBD | TBD | TBD | TBD |
-| Versions  | 1.2.0 - 1.2.4 | 1.0.0 - 1.2.5 | TBD | TBD | TBD | TBD | TBD |
+| Versions  | 1.2.0 - 1.2.6 | 1.0.0 - 1.2.5 | TBD | TBD | TBD | TBD | TBD |
 
 # Instructions
 Please reference the comprehensive repo [wiki](https://github.com/S9-L/FMWSaveManager/wiki) documenting various features in the save manager. The information consolidated there will enable you to fully take advantage of the save manager's capabilties.
